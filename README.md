@@ -1,2 +1,0 @@
-# ntr
-text
